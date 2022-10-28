@@ -1,0 +1,26 @@
+body, html {
+    margin: 2rem;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.delete-button {
+    visibility: hidden;
+    display: inline-block;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
+.table-row:hover .delete-button {
+    visibility: visible;
+}
+
+.title {
+    font-size: 2rem;
+}
