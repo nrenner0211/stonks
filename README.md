@@ -1,7 +1,5 @@
 # TradeHub
 
-![Screen Capture](./traderio/assets/tradehub.png)
-
 ## Table of Contents
 
 - [TradeHub](#tradehub)
