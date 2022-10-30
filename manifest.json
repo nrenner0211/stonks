@@ -8,8 +8,7 @@
       "type": "image/x-icon"
     }
   ],
-  "id": "/tradeHub/",
-  "start_url": ".",
+  "start_url": "./tradeHub",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
