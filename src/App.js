@@ -14,7 +14,6 @@ function App() {
         <BrowserRouter>
           <Routes>
             <Route path='/' element={<StockOverviewPage />}/>
-
             <Route path='/detail/:symbol' element={<StockDetailPage />}/>
           </Routes>
         </BrowserRouter>
