@@ -11,12 +11,11 @@ export const StockOverviewPage = () => {
                 TradeHub <SlGraph />
             </div>
         <AutoComplete />
-            <div className="center">
+            <div className="container center">
                 <img className="logo img-fluid" alt="logo" src={logo}></img>
             </div>
         <StockList />
         <StockDetailPage/>
         </div>
-        
     )
 }

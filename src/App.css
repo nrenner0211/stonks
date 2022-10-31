@@ -12,9 +12,13 @@ body, html {
     display: inline-block;
 }
 
+.container {
+    width: 70rem;
+}
+
 .logo {
-    max-width: 100%;
-    height: auto;
+    max-width: 20%;
+    max-height: auto;
 }
 
 .table-row:hover .delete-button {
