@@ -8,7 +8,7 @@ export const StockOverviewPage = () => {
     return(
         <div>
             <div className="title">
-                TradeHub <SlGraph />
+                TRADER.io <SlGraph />
             </div>
         <AutoComplete />
             <div className="container center">

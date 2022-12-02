@@ -1,13 +1,13 @@
 {
-  "short_name": "tradeHub",
-  "name": "tradeHub",
+  "short_name": "traderio",
+  "name": "trader.io",
   "icons": [
     {
       "src": "favicon.png",
       "type": "image/x-icon"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://nrenner0211.github.io/stonks/",
   "id": "/stonks/",
   "display": "standalone",
   "theme_color": "#000000",
