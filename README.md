@@ -5,12 +5,17 @@
 - [TradeHub](#tradehub)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
+  - [Usage](#usage)
   - [Attribution](#attribution)
   - [Contact](#contact)
 
 ## About
 
 A stock watchlist application. Use the search engine to add stocks to your watchlist and view detailed graphs of their data.
+
+## Usage
+
+To use this app, first clone it to your machine. Next, run `npm install` and `npm start`. Ta-da!
 
 ## Attribution
 
